@@ -47,6 +47,23 @@
 
 }
 
+
+#hire1 {
+  font-size: 1.6rem;
+  color:  var(--primary-color);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 3px;
+  padding-bottom: 20px;
+}
+.hire1{
+  color: white;
+  font-size: 1.6rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 8em;
+  
+
+}
+
 #hire
 {
    font-family: Georgia, 'Times New Roman', Times, serif;
@@ -311,8 +328,27 @@ footer .socials a {
 }
 
 .credit {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 14px;
   opacity: 70%;
+  padding-bottom: 20px;
+  
+}
+.credit1 {
+  word-wrap: break-word;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+  opacity: 70%;
+}
+
+.credit2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 0px;
+  text-align: center;
+}
+
+.fa-solid{
+ margin: auto;
 }
 
 .link {
