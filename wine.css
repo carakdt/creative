@@ -28,6 +28,13 @@
     color:  var(--primary-color);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#span1{
+  
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 #hire {
   font-size: 1.6rem;
   color: white;
